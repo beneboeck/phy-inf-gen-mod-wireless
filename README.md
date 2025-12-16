@@ -23,7 +23,7 @@ The directory `src/training` contains the training functions for the CSGMM and C
 
 The directory `src/utils` contains auxiliary functions.
 
-The files `demo1_ofdm_csgmm_visual.py`, `demo2_3gpp_csvae.py`, and `demo3_ofdm_csvae.py` are standalone demo files that can be used to make you more familiar with the code. In particular, `demo1_ofdm_csgmm_visual.py` can be run on a CPU as it uses a numpy implementation of CSGMM (a pytorch version for CUDA can also be found in the modules folder). It plots generated samples during training, similar to the illustrations below. `demo2_3gpp_csvae.py`, and `demo3_ofdm_csvae.py` both can be run a GPU and train the CSVAE for SIMO and OFDM channel data, respectively. The scripts store exemplary generated samples over training in the `src/results/demos/demo2` and `src/results/demos/demo3` folder, respectively. 
+The files `demo1_ofdm_csgmm_visual.py`, `demo2_3gpp_csvae.py`, and `demo3_ofdm_csvae.py` are standalone demo files that can be used to make you more familiar with the code. In particular, `demo1_ofdm_csgmm_visual.py` can be run on a CPU as it uses a numpy implementation of CSGMM (a pytorch version for CUDA can also be found in the modules folder). It plots generated samples during training, similar to the illustrations below. `demo2_3gpp_csvae.py`, and `demo3_ofdm_csvae.py` both can be run on a GPU and train the CSVAE for SIMO and OFDM channel data, respectively. The scripts store exemplary generated samples over training in the `src/results/demos/demo2` and `src/results/demos/demo3` folder, respectively. 
 
 ## Citation
 If you are using this code for your research, please cite
