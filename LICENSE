@@ -16,7 +16,7 @@ Examples of modifications that may be considered substantial include, but are no
 
 Examples of modifications that are not substantial include, but are not limited to:
   -	Reformatting or reorganization of code without functional change.
- -	Cosmetic changes such as renaming variables or adjusting comments.
+  -	Cosmetic changes such as renaming variables or adjusting comments.
   -	Parameter tuning without structural or functional change.
  
 The copyright holder reserves the right to determine, in good faith, whether a modification qualifies as substantial and significant under this License.
