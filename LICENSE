@@ -1,0 +1,27 @@
+[Copyright Statement]
+U.S. Patent Pending 
+Permission is granted to use this code in source or binary form provided that you satisfy the following conditions:
+ 
+1.	Use of this code is permitted exclusively for educational, academic, scientific, and non-commercial purposes. Commercial use of this code is strictly prohibited.
+2.	Redistribution of the code in its unmodified, original form is strictly prohibited. Publications are allowed as long as appropriate credit is given to the copyright holder.
+3.	Redistribution of this code is allowed under the following conditions:
+a.	The modifications must be substantial and significant, meaning they introduce meaningful changes in functionality, or performance beyond minor fixes, formatting, or cosmetic alterations.
+b.	Redistribution must clearly indicate that the code has been modified and include a description of the nature of the modifications.
+c.	Redistribution must be accompanied by a copy of this License.
+ 
+Examples of modifications that may be considered substantial include, but are not limited to:
+-	Rewriting or replacing core components of the code that changes how the software operates or processes information.
+-	Implementing new algorithms, features, or modules that substantially change the software’s logical functionality, behaviour, or purpose.
+-	Major performance improvements (e.g., changes leading to measurable speedups or scalability).
+-	 
+Examples of modifications that are not substantial include, but are not limited to:
+-	Reformatting or reorganization of code without functional change.
+-	Cosmetic changes such as renaming variables or adjusting comments.
+-	Parameter tuning without structural or functional change.
+ 
+The copyright holder reserves the right to determine, in good faith, whether a modification qualifies as substantial and significant under this License.
+ 
+Other use of this software than as stated herein requires authorization by Rohde & Schwarz.
+ 
+NO EXPRESS OR IMPLIED LICENSES TO ANY PATENT CLAIMS, including without limitation the patents of Rohde & Schwarz, ARE GRANTED BY THIS SOFTWARE LICENSE. Rohde & Schwarz provides no warranty of patent non-infringement with respect to this software. You may use this code only for purposes that are authorized by appropriate patent licenses.
+This code is provided by Rohde & Schwarz "AS IS" and WITHOUT ANY EXPRESS OR IMPLIED WARRANTIES, including but not limited to the implied warranties of merchantability and fitness for a particular purpose. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE for any direct, indirect, incidental, special, exemplary, or consequential damages, including but not limited to the procurement of substitute goods or services; loss of use, data, or profits; or business interruption, however caused and on any theory of liability, whether in contract, strict liability, or tort (including negligence), arising in any way out of the use of this software, even if advised of the possibility of such damage.
