@@ -5,19 +5,19 @@ Permission is granted to use this code in source or binary form provided that yo
 1.	Use of this code is permitted exclusively for educational, academic, scientific, and non-commercial purposes. Commercial use of this code is strictly prohibited.
 2.	Redistribution of the code in its unmodified, original form is strictly prohibited. Publications are allowed as long as appropriate credit is given to the copyright holder.
 3.	Redistribution of this code is allowed under the following conditions:
-a.	The modifications must be substantial and significant, meaning they introduce meaningful changes in functionality, or performance beyond minor fixes, formatting, or cosmetic alterations.
-b.	Redistribution must clearly indicate that the code has been modified and include a description of the nature of the modifications.
-c.	Redistribution must be accompanied by a copy of this License.
+  a.	The modifications must be substantial and significant, meaning they introduce meaningful changes in functionality, or performance beyond minor fixes, formatting, or cosmetic alterations.
+  b.	Redistribution must clearly indicate that the code has been modified and include a description of the nature of the modifications.
+  c.	Redistribution must be accompanied by a copy of this License.
  
 Examples of modifications that may be considered substantial include, but are not limited to:
--	Rewriting or replacing core components of the code that changes how the software operates or processes information.
--	Implementing new algorithms, features, or modules that substantially change the software’s logical functionality, behaviour, or purpose.
--	Major performance improvements (e.g., changes leading to measurable speedups or scalability).
--	 
+  -	Rewriting or replacing core components of the code that changes how the software operates or processes information.
+  -	Implementing new algorithms, features, or modules that substantially change the software’s logical functionality, behaviour, or purpose.
+  -	Major performance improvements (e.g., changes leading to measurable speedups or scalability).
+
 Examples of modifications that are not substantial include, but are not limited to:
--	Reformatting or reorganization of code without functional change.
--	Cosmetic changes such as renaming variables or adjusting comments.
--	Parameter tuning without structural or functional change.
+  -	Reformatting or reorganization of code without functional change.
+  -	Cosmetic changes such as renaming variables or adjusting comments.
+  -	Parameter tuning without structural or functional change.
  
 The copyright holder reserves the right to determine, in good faith, whether a modification qualifies as substantial and significant under this License.
  
